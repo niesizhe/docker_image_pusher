@@ -8,3 +8,4 @@ steveleungsly/sqlright_sqlite:version1.2
 steveleungsly/sqlright_postgres:version1.0
 steveleungsly/sqlright_mysql:version1.0
 steveleungsly/sqlright_mysql_bisecting:version1.0
+docker pull python:3.8
