@@ -4,4 +4,15 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-sqlsec/ggctf-upload:v13
+sqlsec/ggctf-upload:v1
+sqlsec/ggctf-upload:v2
+sqlsec/ggctf-upload:v3
+sqlsec/ggctf-upload:v4
+sqlsec/ggctf-upload:v5
+sqlsec/ggctf-upload:v6
+sqlsec/ggctf-upload:v7
+sqlsec/ggctf-upload:v8
+sqlsec/ggctf-upload:v9
+sqlsec/ggctf-upload:v10
+sqlsec/ggctf-upload:v11
+sqlsec/ggctf-upload:v12
