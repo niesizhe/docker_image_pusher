@@ -4,6 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vulfocus/tomcat-pass-getshell:latest
-vulfocus/tomcat-cve_2020_1938:latest
-vulfocus/tomcat-cve_2017_12615:latest
+vulfocus/weblogic-cve_2020_2555:latest
