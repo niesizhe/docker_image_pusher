@@ -4,5 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vulfocus/jenkins-cve_2018_1000861:latest
-vulfocus/jenkins-cve_2017_1000353:latest
+vulfocus/jetty-cve_2021_34429:latest
+vulfocus/jetty-cve_2021_28169:latest
