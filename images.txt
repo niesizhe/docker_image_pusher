@@ -4,5 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vulfocus/struts2-cve_2020_17530:latest
-vulfocus/struts2-cve_2021_31805:latest
+vulfocus/spring_cve_2022_22947:latest
+vulfocus/spring-core-rce-2022-03-29:latest
+vulfocus/spring-data-mongo-cve_2022_22890:latest
+vulfocus/spring-cloud-function-rce:latest
