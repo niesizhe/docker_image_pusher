@@ -4,5 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vulfocus/solr-cve_2019_17558:latest
-vulfocus/solr-stream.url-ssrf:latest
+vulfocus/shiro-cve_2016_4437:latest
+vulfocus/shiro-cve_2020_11989:latest
+vulfocus/shiro-cve_2020_1957:latest
+vulfocus/shiro-cve_2022_32532:latest
