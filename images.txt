@@ -4,4 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-vulfocus/shiro-721
+vulhub/struts2:s2-053
+vulhub/fastjson:1.2.45
+vulhub/shiro:1.2.4
